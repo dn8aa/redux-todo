@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "diana",
+      "address": "london",
+      "email": "diana@gmail.com",
+      "contact": "117",
+      "id": "1"
+    },
+    {
+      "name": "dastan",
+      "address": "newyork",
+      "email": "dastan@gmail.com",
+      "contact": "119",
+      "id": "3"
+    },
+    {
+      "name": "diana",
+      "email": "dianchik@gmail.com",
+      "contact": "imokreally",
+      "address": "london",
+      "id": "reBBF9p"
+    },
+    {
+      "name": "a",
+      "email": "b",
+      "contact": "cdssdf",
+      "address": "d",
+      "id": "wv7zgcL"
+    }
+  ]
+}
